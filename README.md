@@ -1,5 +1,2 @@
-*# Closed*
+# Welcome to the my wiki
 
-*## Pealkiri 2*
-
-*### Pel*
